@@ -449,6 +449,6 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-.sln
+*.sln
 .vs/
-.raw
+*.raw
