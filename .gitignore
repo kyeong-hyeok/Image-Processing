@@ -452,3 +452,4 @@ FodyWeavers.xsd
 .vs/
 *.raw
 *.txt
+*.y
