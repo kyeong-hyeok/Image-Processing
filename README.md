@@ -9,5 +9,5 @@
 | 2 | [Geometric Transformation](https://github.com/kyeong-hyeok/Image-Processing/tree/main/Geometric%20Transformation) |
 | 3 | [Spatial Domain Filtering](https://github.com/kyeong-hyeok/Image-Processing/tree/main/Spatial%20Domain%20Filtering) |
 | 4 | [DFT, DCT Process](https://github.com/kyeong-hyeok/Image-Processing/tree/main/DFT%2C%20DCT%20Process) |
-| 5 | []() |
+| 5 | [Compression]() |
 
